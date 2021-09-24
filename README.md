@@ -1,1 +1,2 @@
-# queso
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-2gN4wEv_qPI/XjtKDwMuIQI/AAAAAAAAvrY/VTtJwZALBykDRnM8ia0Xbqi0FbREvdrZACK8BGAsYHg/s0/2020-02-05.png" group-title="AMBA", GARAGE TV https://s10.zplayer.live/hls/5fxcvuorwonufvsa6lte7wepxm5wllgcnynufpcogvbfmgakazgkx2bbrpoa/index-v1-a1.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-2gN4wEv_qPI/XjtKDwMuIQI/AAAAAAAAvrY/VTtJwZALBykDRnM8ia0Xbqi0FbREvdrZACK8BGAsYHg/s0/2020-02-05.png" group-title="AMBA", GARAGE TV https://s8.zplayer.live/hls/5fxcvugrwonufvsa6lte7uml5k6e6kjf3wxjckvkjlmpaxhriplrrn3cpoka/index-v1-a1.m3u8
